@@ -1,0 +1,7 @@
+.toggle-switch {
+    position: inherit;
+    width: 75px;
+    display: inline-block;
+    vertical-align: middle;
+    text-align: center;
+}

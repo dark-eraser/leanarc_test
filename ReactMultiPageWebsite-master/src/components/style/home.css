@@ -1,0 +1,13 @@
+.welcome {
+    color: aliceblue;
+    
+}
+
+.login {
+    /* box-sizing: border-box; */
+    align-items: center;
+    text-align: center;
+   
+    width:450px;
+    height:20px;
+}
